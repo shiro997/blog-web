@@ -3,6 +3,8 @@ App corporativa de registro académico
 el wireframe está en la siguietne ruta dentro del repo:
 - /src/assets/img/WireFrame/WireFrame_RegistroKonrad.png
 
+Recuerde clonar el repositorio!!!!
+
 requisitos de software:
 - node.js
 - visual studio code (o cualquier IDE que sirva para HTML y TypeScript)
